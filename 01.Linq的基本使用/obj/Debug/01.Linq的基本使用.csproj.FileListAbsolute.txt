@@ -1,0 +1,8 @@
+D:\上课视频\c#\课堂\04.ADO.Net&Linq\day05\code\01.Linq的基本使用\01.Linq的基本使用\bin\Debug\01.Linq的基本使用.exe.config
+D:\上课视频\c#\课堂\04.ADO.Net&Linq\day05\code\01.Linq的基本使用\01.Linq的基本使用\bin\Debug\01.Linq的基本使用.exe
+D:\上课视频\c#\课堂\04.ADO.Net&Linq\day05\code\01.Linq的基本使用\01.Linq的基本使用\bin\Debug\01.Linq的基本使用.pdb
+D:\上课视频\c#\课堂\04.ADO.Net&Linq\day05\code\01.Linq的基本使用\01.Linq的基本使用\obj\Debug\01.Linq的基本使用.csproj.AssemblyReference.cache
+D:\上课视频\c#\课堂\04.ADO.Net&Linq\day05\code\01.Linq的基本使用\01.Linq的基本使用\obj\Debug\01.Linq的基本使用.csproj.SuggestedBindingRedirects.cache
+D:\上课视频\c#\课堂\04.ADO.Net&Linq\day05\code\01.Linq的基本使用\01.Linq的基本使用\obj\Debug\01.Linq的基本使用.csproj.CoreCompileInputs.cache
+D:\上课视频\c#\课堂\04.ADO.Net&Linq\day05\code\01.Linq的基本使用\01.Linq的基本使用\obj\Debug\01.Linq的基本使用.exe
+D:\上课视频\c#\课堂\04.ADO.Net&Linq\day05\code\01.Linq的基本使用\01.Linq的基本使用\obj\Debug\01.Linq的基本使用.pdb
